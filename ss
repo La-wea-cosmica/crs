@@ -1,2 +1,2 @@
-niba:sush\n
+niba:sush
 susbrak:sss
